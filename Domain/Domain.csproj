@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Core.DataAccess">
+        <HintPath>..\..\..\CorePackages\CorePackages\Core.DataAccess\bin\Debug\net8.0\Core.DataAccess.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
