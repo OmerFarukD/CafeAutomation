@@ -7,7 +7,7 @@ using Core.Application.Results;
 using Domain.Entities;
 using MediatR;
 
-namespace Application.Features.Categories.Commands;
+namespace Application.Features.Categories.Commands.Create;
 
 public static class CreateCategory
 {

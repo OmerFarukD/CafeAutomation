@@ -24,6 +24,9 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Reference Include="Core.Application">
+        <HintPath>..\..\..\CorePackages\CorePackages\Core.Application\bin\Debug\net8.0\Core.Application.dll</HintPath>
+      </Reference>
       <Reference Include="Core.DataAccess">
         <HintPath>..\..\..\CorePackages\CorePackages\Core.DataAccess\bin\Debug\net8.0\Core.DataAccess.dll</HintPath>
       </Reference>
